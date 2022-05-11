@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vini-muchulski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Engineering 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me ...
-teste
+
 <!---
 vini-muchulski/vini-muchulski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
