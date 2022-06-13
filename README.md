@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Engineering 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 Instagram: @vini_muchulski - Discord Apeiron#1011
+- 📫 Instagram: @vini_muchulski - Discord 
 
 <!---
 vini-muchulski/vini-muchulski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
