@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vini-muchulski
+- 👋 Hi, I’m Vinícius
 - 👀 I’m interested in Computer Engineering 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new projects 
