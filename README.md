@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinícius
-- 👀 I’m interested in Computer Engineering 
-- 🌱 I’m currently learning Python
+- 👀 I’m a Computer Engineering Student at UFSC 
+- 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 Instagram: @vini_muchulski - Discord: Vinni#9013
 
