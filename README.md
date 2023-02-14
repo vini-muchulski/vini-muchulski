@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 Instagram: @vini_muchulski - Discord: Vinni#9013
-- 🎯 Hobbies: Books, games, gym and brazilian jiu jitsu 
+- 🎯 Hobbies: Books, games,  gym and Brazilian Jiu Jitsu 
 
 <!---
 vini-muchulski/vini-muchulski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
