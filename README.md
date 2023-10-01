@@ -2,7 +2,7 @@
 - 👀 I’m a Computer Engineering Student at UFSC 
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 Instagram: @vini_muchulski - Discord: vinni_spx
+- 📫 Linkedin: vini_muchulski 
 - 🎯 Hobbies: books, games and gym.
 
 <!---
