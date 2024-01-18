@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vinícius
 - 👀 I’m a Computer Engineering Student at UFSC 
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on new projects 
-- 📫 Linkedin: vini_muchulski 
+- 🌱 I’m currently learning Python 🐍 and Rust 🦀
+- 💞️ I’m looking to collaborate on new projects  
 - 🎯 Hobbies: books, games and gym.
 
 <!---
