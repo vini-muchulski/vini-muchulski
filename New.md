@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vini!;" />
 </h1>
 
 <h3 align="center">Computer Engineering Student</h3>
@@ -56,7 +56,6 @@
 <div align=center>
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vini-muchulski&show_icons=true&theme=github_dark_dimmed &include_all_commits=true&count_private=true" alt="readme stats" />
   <br/>
-    
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-muchulski&layout=compact&langs_count=7&theme=github_dark_dimmed "/>
 </div>
 
