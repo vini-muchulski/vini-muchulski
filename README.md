@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Vinícius
-- 👀 I’m a Computer Engineering Student at UFSC 
-- 🌱 I’m currently learning Python 🐍 and Rust 🦀
-- 💞️ I’m looking to collaborate on new projects  
-- 🎯 Hobbies: books, games and gym.
-
+- 👋 Hi, I’m Vinicius.
+-  Computer Engineering student at the Federal University of Santa Catarina (UFSC) - Brazil
+-  Currently working on projects using Python and C++
+-  Interested in Computer Vision, Machine Learning, and Embedded Systems
+-  
 <!---
 vini-muchulski/vini-muchulski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
